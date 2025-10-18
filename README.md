@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @PFCAZ
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning everything
-- 📫 How to reach me... can you message on here?
-- ⚡ Fun fact: Still working on it
+- 👋Aspiring AI professional showcasing AI-built web apps and data projects
 
 <!---
 PFCAZ/PFCAZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
